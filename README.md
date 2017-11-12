@@ -1,2 +1,5 @@
 # bot_pattern
-pattern to create bot applications
+pattern in Kotlin to create bot applications with rx way
+
+## dependencies
+* Rx JAVA
